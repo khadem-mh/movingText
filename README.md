@@ -11,7 +11,8 @@
 
 ## View of the  Mini-project
 
-<img src="./Video/search.gif" width="420px"/>
+<img src="./Video/text.gif" width="420px"/>
+
 
 check this [URL](https://khadem-mh.github.io/movingText/) for visit this page
 
